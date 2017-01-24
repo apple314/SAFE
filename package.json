@@ -1,0 +1,26 @@
+{
+  "name": "SAFEAPP",
+  "version": "1.0.0",
+  "description": "Safe onener on date, to help keep weed comsumptiondown..",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SAFE",
+    "WEED",
+    "CHECKER"
+  ],
+  "author": "apple314",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "electron": "^1.4.15",
+    "ntp-client": "^0.5.3",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^8.5.1"
+  }
+}
