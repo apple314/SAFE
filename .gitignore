@@ -1,2 +1,3 @@
 SAFEAPP-linux-x64/
 node_modules/
+.gitignore
